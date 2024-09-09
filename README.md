@@ -2,7 +2,7 @@
 
 ###
 
-<p style="font-size: 16px; color: white;" align="left">I'm a passionate Full-stack developer with a special love for Backend. I enjoy crafting elegant and efficient solutions that solve real-world problems. Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
+<p style="font-size: 18px; color: white;" align="left">I'm a passionate Full-stack developer with a special love for Backend.<br/> I enjoy crafting elegant and efficient solutions that solve real-world problems. Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
 
 ###
 
