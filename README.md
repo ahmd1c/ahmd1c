@@ -15,7 +15,7 @@
 </ul>
 
 <div align="left">
-  <img height="250" width="90%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+  <img height="250" width="80%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
 ###
