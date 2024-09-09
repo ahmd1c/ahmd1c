@@ -2,12 +2,20 @@
 
 ###
 
-<p style="font-size: 22px; color: white;" align="left">I'm a passionate Full-stack developer with a special love for Backend.<br/> I enjoy crafting elegant and efficient solutions that solve real-world problems.<br/> Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
-
-###
+<ul style="color:white;font-size:17px;list-style:none;" align="left">
+<li>
+💻 I'm a passionate Full-stack developer with a special love for Backend. 
+</li>
+<li>
+🚀 I enjoy crafting elegant and efficient solutions that solve real-world problems. 
+</li>
+<li>
+⚽ Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics. 📊
+</li>
+</ul>
 
 <div align="left">
-  <img height="250" width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+  <img height="250" width="90%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
 ###
