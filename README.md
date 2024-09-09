@@ -14,7 +14,7 @@
 </li>
 </ul>
 
-<div align="left">
+<div align="center">
   <img height="250" width="80%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
