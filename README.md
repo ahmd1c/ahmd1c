@@ -2,12 +2,12 @@
 
 ###
 
-<p style="font-size: 18px; color: white;" align="left">I'm a passionate Full-stack developer with a special love for Backend.<br/> I enjoy crafting elegant and efficient solutions that solve real-world problems. Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
+<p style="font-size: 18px; color: white;" align="center">I'm a passionate Full-stack developer with a special love for Backend.<br/> I enjoy crafting elegant and efficient solutions that solve real-world problems.<br/> Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
 ###
