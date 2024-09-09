@@ -1,4 +1,4 @@
-<h2 style="color:white;" align="left">Hi 👋! I'm Ahmed and I'm a Fullstack engineer</h2>
+<h2 style="color:white;" align="center">Hi 👋! I'm Ahmed and I'm a Fullstack engineer</h2>
 
 ###
 
