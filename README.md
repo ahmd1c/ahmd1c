@@ -1,19 +1,18 @@
-<h2 style="color:white;" align="center">Hi 👋! I'm Ahmed and I'm a Fullstack engineer</h2>
+<h2 style="color:white;" align="left">Hi 👋! I'm Ahmed and I'm a Fullstack engineer</h2>
 
 ###
 
-<p style="font-size: 22px; color: white;" align="center">I'm a passionate Full-stack developer with a special love for Backend.<br/> I enjoy crafting elegant and efficient solutions that solve real-world problems.<br/> Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
+<p style="font-size: 22px; color: white;" align="left">I'm a passionate Full-stack developer with a special love for Backend.<br/> I enjoy crafting elegant and efficient solutions that solve real-world problems.<br/> Outside of coding, I'm a dedicated football fan and avid follower of football analytics and tactics.</p>
 
 ###
 
-<div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+<div align="left">
+  <img height="250" width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
 ###
 
-
-<div style="display:flex gap:10px;" align="center">
+<div style="display:flex; flex-wrap:wrap; gap:10px" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
