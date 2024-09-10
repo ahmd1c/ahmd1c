@@ -2,7 +2,7 @@
 
 ###
 
-<ul style="color:white;font-size:17px;list-style:none;" align="left">
+<ul style="color:white;font-size:18px;list-style:none;" align="left">
 <li>
 💻 I'm a passionate Full-stack developer with a special love for Backend. 
 </li>
