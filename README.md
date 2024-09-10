@@ -20,7 +20,7 @@
 
 ###
 
-<div style="display:grid; grid-template-column: repeat(4,1fr); width:90% gap:10px" align="center">
+<div style="display:flex; flex-wrap:wrap; width:90% gap:10px" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
