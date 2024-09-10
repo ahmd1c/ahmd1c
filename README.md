@@ -15,12 +15,12 @@
 </ul>
 
 <div align="left">
-  <img height="320" width="100%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
+  <img height="350" width="97%" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 </div>
 
 ###
 
-<div style="display:flex; flex-wrap:wrap; gap:10px" align="center">
+<div style="display:grid; grid-template-column: repeat(4,1fr); width:90% gap:10px" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
